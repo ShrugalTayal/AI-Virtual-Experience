@@ -1,1 +1,1 @@
-# Cognizant-AI-Virtual-Experience
+# AI-Virtual-Experience
